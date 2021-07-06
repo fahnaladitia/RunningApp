@@ -86,7 +86,7 @@ dependencies {
     // Dagger Android
     api 'com.google.dagger:dagger-android:2.35.1'
     api 'com.google.dagger:dagger-android-support:2.35.1'
-    kapt 'com.google.dagger:dagger-android-processor:2.23.2'
+    kapt 'com.google.dagger:dagger-android-processor:2.35.1'
 
     // Easy Permissions
     implementation 'pub.devrel:easypermissions:3.0.0'
